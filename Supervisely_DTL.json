@@ -148,7 +148,7 @@
     }
   },
   {
-    "dst": "roads_augmented-train-val",
+    "dst": "ships_augmented-train-val",
     "src": [
       "$train",
       "$val"
