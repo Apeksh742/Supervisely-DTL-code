@@ -9,4 +9,4 @@ Data preparation for training takes most of data scientists's time. In addition,
 Other details such as how to create them, run them, and use them can be found [here](https://docs.supervise.ly/data-manipulation/index)
 
 ## Usage
-You can this json code directly to populate your dataset.
+You can this json code to populate your dataset and customise it also.
